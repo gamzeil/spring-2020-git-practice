@@ -6,3 +6,4 @@ yellow
 ###brown
 blue
 orange
+apricot
