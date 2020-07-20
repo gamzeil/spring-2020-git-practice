@@ -4,6 +4,10 @@ Honda
 BMW
 Jaguar
 Bentley
+Hyundai
+Nissan
+Lexus
+Ferrari
 Mercedes
 Audi
 Kia
